@@ -4,5 +4,6 @@ public class Hello{
 		System.out.println("Hello 2");
 		System.out.println("Hello 2");
 		System.out.println("Hello 3");
+		Admin admin = new Admin();
 	}
 }
