@@ -6,5 +6,7 @@ public class Hello{
 		System.out.println("Hello 3");
 		Admin admin = new Admin();
 		Date date = new Date();
+		
+		System.out.println("Hello 4");
 	}
 }
