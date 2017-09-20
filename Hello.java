@@ -8,5 +8,9 @@ public class Hello{
 		Date date = new Date();
 		
 		System.out.println("Hello 4");
+		
+		System.out.println("Hello 5");
+		System.out.println("Hello 6");
+		System.out.println("Hello 7");
 	}
 }
