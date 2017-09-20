@@ -5,4 +5,6 @@ public class Admin{
 	private Vote vote = new Vote();
 	
 	private String name;
+	
+	private List<Action> actions;
 }
